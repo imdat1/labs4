@@ -1,0 +1,28 @@
+.contactTouch{
+    background-color: #D3D3D3;
+    overflow: auto;
+}
+
+.touch1{
+    display: block;
+    margin-left: 100px;
+    margin-right: 10%;
+    font-family: "DejaVu Sans";
+}
+
+.touch1 h1{
+    color: white;
+    font-size: 40px;
+}
+
+iframe{
+    float:right;
+    width:410px;
+    height: 270px;
+}
+
+.MAP{
+    padding-top: 20px;
+    clear: both;
+    float:right;
+}

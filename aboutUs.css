@@ -1,0 +1,56 @@
+.companyTeam{
+    background-color: #D3D3D3;
+    overflow: auto;
+}
+.company{
+    margin: 20px 130px 20px 100px;
+}
+.company h2{
+    text-align: center;
+    color: white;
+}
+
+.cards{
+    display: flex;
+}
+
+.worker{
+    display: inline-block;
+    background-color: white;
+    margin: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+.worker img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.worker h3{
+    color: black;
+    text-align: center;
+    font-size: 28px;
+
+}
+
+.compText{
+    display: block;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-weight: bolder;
+    font-family: "DejaVu Serif";
+    font-size: 14px;
+    text-align: justify;
+}
+
+.compText p{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.compText hr{
+    border-top:solid;
+    width: 90%;
+}

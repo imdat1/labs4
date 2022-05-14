@@ -1,0 +1,77 @@
+.home1{
+    background-color: #00008B;
+    overflow: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.home2{
+    width: 400px;
+}
+
+.home1 img{
+    float: right;
+}
+
+.home1 h1{
+    color: white;
+    margin-top: 200px;
+    font-size: 30px;
+    font-family: "DejaVu Serif";
+}
+
+.home1 h2{
+    color: white;
+    font-size: 22px;
+    font-family: "DejaVu Serif";
+}
+
+.first{
+    overflow: auto;
+    padding-top: 20px;
+}
+
+.first img{
+    float:left;
+    border-radius: 20px;
+    width:310px;
+    height: 180px;
+}
+
+.second{
+    overflow: auto;
+    padding-bottom: 20px;
+}
+
+.second img{
+    float: right;
+    border-radius: 20px;
+    width:310px;
+    height: 180px;
+}
+
+.no2{
+    background-color: #3CB371;
+}
+
+.secondsection{
+   margin-left: 110px;
+    margin-right: 110px;
+}
+
+.first1{
+    padding-left:350px;
+    padding-top: 20px;
+    font-size: 16px;
+    font-family: "DejaVu Sans";
+    text-align: justify;
+}
+
+.second1{
+    padding-right:350px;
+    padding-top: 20px;
+    font-size: 16px;
+    font-family: "DejaVu Sans";
+    text-align: justify;
+}
+

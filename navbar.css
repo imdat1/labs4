@@ -1,0 +1,79 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header img{
+    margin-left: 100px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    font-family: "David Libre", Arial, serif;
+}
+
+.navbar a:hover{
+    color: #94EF94;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar2{
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-right: 100px;
+    margin-top:15px;
+}
+
+.navbar2 a{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    font-family: "David Libre", Arial, serif;
+}
+
+.navbar2 a:hover{
+    color: #94EF94;
+}
+
+.copyright{
+    padding-left: 100px;
+}
+
+.greensection{
+    display: flex;
+    background-color:#90EE90;
+    color: white;
+    justify-content: space-between;
+    font-weight: bold;
+    font-family: "DejaVu Serif";
+}
+.greentext{
+    margin-right: 130px;
+    margin-top:10px;
+}
+.greensection h2{
+    padding-left:100px;
+}
+
+.clearspace{
+    height: 20px;
+}
+
+.HeaderFooter{
+    border-top: solid;
+}
